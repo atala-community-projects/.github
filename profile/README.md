@@ -4,6 +4,11 @@ This is an open-source community maintained organisation where individuals can c
 🙋‍♀️ Currently maintained by @elribonazo, @mixmix
 
 ## 👩‍💻 Projects
+### Edge Agent SDK demos
+We have created several demos using the atala Identity SDK to create sample implementations with each pluto-encrypted storage available, indexDB, inMemory, levelDB, in nodejs, browser and electron environments.
+
+[Check here for more](https://github.com/atala-community-projects/edge-wallet-demos)
+
 ### Pluto Encrypted
 Is a community maintained project which aims to bring a scalable and future proof storage solution for Wallet SDK on typescript. By using this package you can ensure that this dependency will fit the AtalaPrism wallet SDK contract and provide the SDK with storage finally.
 This package is compatible with Atala Prism Wallet SDK v3.2.0
